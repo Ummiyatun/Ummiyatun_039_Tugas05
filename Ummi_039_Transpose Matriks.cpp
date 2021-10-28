@@ -1,11 +1,9 @@
 #include <iostream>
-
 using namespace std;
-
-int main(){
-	
+int main()
+{
   int i, j, m, n, matriks[10][10], transpose[10][10];
-  
+	
 cout << "\tProgram Transpose Matriks";
 cout << "\n-------------------------------------------";
 cout << "\n\nMasukkan Banyaknya Baris = "; cin>>m;
